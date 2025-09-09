@@ -7,12 +7,13 @@ The course 'Basic methods and reasoning in Biostatistics' is mandatory for LUMC 
 This url (https://osf.io/8dahv) contains most recent information regarding what courses exist & which are mandatory. 
 
 List of places where you can find courses:
-- https://airtable.com/appz629qTQXv1CGaQ/shrTq74vRNXjZkKMP/tblplV9X163Y6dgna
+- https://airtable.com/appz629qTQXv1CGaQ/shrTq74vRNXjZkKMP/tblplV9X163Y6dgna - long list of many transferable skills
+- https://www.boerhaavecontinuingmedicaleducation.com/ - has more courses related to biostatistics
+- I think (can someone confirm?) you can also follow courses from Leiden BSc/MSc programs, such as from mathematics/statistics/ medicine(?) programs. 
 - 
-
-
 
 Course reviews
 - Academic writing:
   - Jasper van Egeraat: Nice course, but recommend to follow once you are far enough in your PhD that you need to start writing an article. 
-
+- Time management:
+  - Jasper van Egeraat: Would not recommend, it's like group therapy
