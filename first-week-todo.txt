@@ -1,1 +1,2 @@
 - Make sure your supervisor puts you on the MSTAT mailing list
+- Make sure someone gives you collaboration rights to this github, so you can update it if things are out of date
