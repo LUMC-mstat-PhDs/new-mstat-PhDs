@@ -5,3 +5,4 @@ Topics to be added
 - How to declare money
 - Converis
 - Procedure for finishing up thesis
+- ...
