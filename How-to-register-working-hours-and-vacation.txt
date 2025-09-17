@@ -1,0 +1,1 @@
+To register your working hours and to register vacation hours, go to https://hcm.prd.lumc.nl/psp/HC92PRD/?cmd=login&languageCd=DUT&
