@@ -1,0 +1,17 @@
+To register your working hours and to register vacation hours, go to
+https://hcm.prd.lumc.nl/psp/HC92PRD/?cmd=login&languageCd=DUT&
+
+Click 'Mijn jaarkaart'
+
+The first time you do this, you have to make a default working week 'pattern'. For example, if you have a 36 hour contract, you can work 8 hours monday to thursdays, and 4 hours on friday. Or 9 hours monday to thursday. Or 1 week 8 hours monday to friday, and the other week 8 hours monday to thursday.
+Click 'Mijn werkpatroon en applicatie'
+Click 'Voeg nieuw werkschema toe'
+Fill in the daily hours you want to work. If you want a biweekly schedule, click 'Voeg een week toe'
+At ingangsdatum, put the day you started working.
+Click 'Opslaan'
+
+Now you can go back to 'Mijn jaarkaart'. It takes a minute to update with your new working week pattern.
+It computes how much hours you have to work until the end of the year (netto jaartaak), and compares that to how much you will work following the pattern you filled in ('Gerealiseerd'). The difference is how much hours you will work too little (Te weinig gewerkte uren). You should aim to get this to 0 by working more/less and taking vacations.
+
+It also shows how much vacation hours you have until the end of the year (vakantie uren).
+You can register vacation hours in the table by emptying the 'Gewerkt' cell and putting daily vacation hours in the 'vakantie' row.
